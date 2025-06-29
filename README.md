@@ -89,7 +89,7 @@ A full-stack todo list application built with Node.js/Express backend and Next.j
 1. **Navigate to frontend directory:**
 
    ```bash
-   cd frontend/todo
+   cd frontend
    ```
 
 2. **Install dependencies:**
@@ -173,7 +173,6 @@ todo-internshala/
 │   ├── package-lock.json
 │   └── server.js          # Express server with API endpoints
 ├── frontend/
-│   └── todo/
 │       ├── package.json
 │       ├── next.config.mjs
 │       ├── tailwind.config.js
